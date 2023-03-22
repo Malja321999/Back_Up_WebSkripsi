@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d62aeb3.css",
+    "main.js": "/static/js/main.7d438333.js",
+    "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
+    "static/media/home.png": "/static/media/home.eb21c08ab32faf047a8d.png",
+    "static/media/[white] ceklis skill .svg": "/static/media/[white] ceklis skill .9cb16b2e0f25877d404291758abc4b69.svg",
+    "index.html": "/index.html",
+    "main.5d62aeb3.css.map": "/static/css/main.5d62aeb3.css.map",
+    "main.7d438333.js.map": "/static/js/main.7d438333.js.map",
+    "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d62aeb3.css",
+    "static/js/main.7d438333.js"
+  ]
+}
