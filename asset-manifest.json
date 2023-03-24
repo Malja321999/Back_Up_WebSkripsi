@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ff4ad13.css",
-    "main.js": "/static/js/main.e4de2485.js",
+    "main.js": "/static/js/main.5b08f39e.js",
     "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
     "static/media/home.png": "/static/media/home.eb21c08ab32faf047a8d.png",
     "static/media/[white] ceklis skill .svg": "/static/media/[white] ceklis skill .9cb16b2e0f25877d404291758abc4b69.svg",
     "index.html": "/index.html",
     "main.2ff4ad13.css.map": "/static/css/main.2ff4ad13.css.map",
-    "main.e4de2485.js.map": "/static/js/main.e4de2485.js.map",
+    "main.5b08f39e.js.map": "/static/js/main.5b08f39e.js.map",
     "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ff4ad13.css",
-    "static/js/main.e4de2485.js"
+    "static/js/main.5b08f39e.js"
   ]
 }
